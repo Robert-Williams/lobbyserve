@@ -1,0 +1,23 @@
+{
+  "name": "lobbyserve",
+  "version": "0.1.0",
+  "description": "Lobby server for game.",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "express": "^4.13.4",
+    "lodash": "^4.2.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "sockets",
+    "node",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC"
+}
