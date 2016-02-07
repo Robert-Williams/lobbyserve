@@ -1,0 +1,33 @@
+{
+	"questions": [{
+		"id": 0,
+		"question": "Who is the largest boss?",
+		"answer": "Naked Snake",
+		"guesses": ["Naked Snake", "Old Snake", "Cold Snake", "Liquid Snake"]
+	}, {
+		"id": 1,
+		"question": "",
+		"answer": "",
+		"guesses": []
+	}, {
+		"id": 2,
+		"question": "",
+		"answer": "",
+		"guesses": []
+	}, {
+		"id": 3,
+		"question": "",
+		"answer": "",
+		"guesses": []
+	}, {
+		"id": 4,
+		"question": "",
+		"answer": "",
+		"guesses": []
+	}, {
+		"id": 5,
+		"question": "",
+		"answer": "",
+		"guesses": []
+	}]
+}
