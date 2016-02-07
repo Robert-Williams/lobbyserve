@@ -1,0 +1,31 @@
+body {
+   background-color: #eee;
+   color: #222;
+   font-family: "Open Sans", sans-serif;
+}
+a:link, a:visited{
+   color: #00b;
+   text-decoration: none;
+}
+a:hover, a:active{
+   color: #44f;
+}
+.mainwrap {
+   padding: 5px;
+   margin: 5px;
+
+}
+.header, .questiondiv {
+   background-color: #ccc;
+   border-radius: 15px;
+   margin: 5px;
+   padding: 10px;
+}
+h2, h4 {
+   margin: 5px 0;
+}
+
+.answerbutton {
+   margin: 5px;
+   padding: 5px;
+}
